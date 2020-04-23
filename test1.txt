@@ -1,10 +1,1 @@
- Volume in drive C is Windows
- Volume Serial Number is E23E-D7E3
-
- Directory of C:\Users\hp\Desktop\GitTest
-
-23-04-2020  20:02    <DIR>          .
-23-04-2020  20:02    <DIR>          ..
-23-04-2020  20:02                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  469,369,241,600 bytes free
+change 1
